@@ -1,0 +1,12 @@
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/CMakeFiles/ORB_SLAM2_YOLOv5.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/CMakeFiles/rgbd_tum.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/CMakeFiles/stereo_kitti.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/CMakeFiles/stereo_euroc.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/CMakeFiles/mono_tum.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/CMakeFiles/mono_kitti.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/CMakeFiles/mono_euroc.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/Thirdparty/g2o/CMakeFiles/g2o.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/Thirdparty/g2o/CMakeFiles/edit_cache.dir
+/home/xin/catkin_ws/src/ORB_SLAM2_slam8/cmake-build-release/Thirdparty/g2o/CMakeFiles/rebuild_cache.dir

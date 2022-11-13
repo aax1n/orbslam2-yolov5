@@ -1,0 +1,5 @@
+# ninja log v5
+4028	4323	1665237932561023507	../Examples/Stereo/stereo_euroc	4cf2897ca571afc1
+167	471	1665238887908335465	../Examples/RGB-D/rgbd_tum	3c579f0e2dc6a71a
+2376	8991	1665237554187760849	CMakeFiles/rgbd_tum.dir/Examples/RGB-D/rgbd_tum.cc.o	cdc45aad723db3ba
+2	167	1665238887604351555	../lib/libORB_SLAM2.so	676ba4f867202412
